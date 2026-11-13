@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.venv/
+venv/
+.coverage
+htmlcov/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+
+# SAFETY: never commit real password exports or converted vaults.
+*.csv
+*.bitwarden.json
+# ... except the fake sample data used by the tests
+!tests/data/*.csv

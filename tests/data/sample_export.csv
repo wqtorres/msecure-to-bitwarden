@@ -1,0 +1,13 @@
+mSecure6 CSV export file
+Example Mail|101,Login,Personal,Recovery codes:
+\n1111-2222
+\n
+\n3333-4444,Website|2|https://mail.example.com,Username|7|alice@example.com,Password|8|pa|ss,Recovery email|5|backup@example.com,Phone|4|,Empty|0|
+"Shop, Inc.|102",Login,,,Website|2|https://shop.example.com,Username|7|alice,Password|8|s3cret,Authenticator|13|JBSWY3DPEHPK3PXP
+Test Visa|103,Credit Card,"Finance,Primary",,Number|12|4111111111111111,Expires|11|12/2028,Name|0|Alice Example,Security Code|9|123,PIN|9|
+Memo|104,Secure Note,,line one
+\nline two
+\n
+Router|105,Router Settings,Home,,URL|2|http://192.168.0.1,Password|8|admin,Admin note|0|first line
+\nsecond line
+Passport|106,Passport,Travel,,Number|3|X1234567,Country|0|
